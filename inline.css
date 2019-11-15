@@ -28,3 +28,23 @@ p{
 	margin: 0 auto;
 	width:  600px;
 }
+
+a{
+	display: inline-block;
+	/* width: 300px; */
+	background: yellow;
+}
+
+strong{
+	font-weight: normal;
+}
+
+span{
+	color:red;
+}
+
+#bild{
+	float:left;
+	margin-right: 16px;
+	margin-bottom: 16px;
+}
